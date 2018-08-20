@@ -1,0 +1,2 @@
+# blogs
+SeisBlogs
